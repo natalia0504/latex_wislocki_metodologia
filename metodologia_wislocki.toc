@@ -1,0 +1,19 @@
+\babel@toc {polish}{}
+\babel@toc {polish}{}
+\contentsline {section}{\numberline {1}Obszar i kierunek bada\IeC {\'n}}{2}
+\contentsline {section}{\numberline {2}Literatura wymagana do realizacji celu rozprawy doktorskiej}{2}
+\contentsline {subsection}{\numberline {2.1}Gdzie szukano literatury}{2}
+\contentsline {subsection}{\numberline {2.2}Literatura og\IeC {\'o}lna}{3}
+\contentsline {subsection}{\numberline {2.3}Literatura specjalistyczna}{3}
+\contentsline {subsection}{\numberline {2.4}Literatura wysokospecjalistyczna}{4}
+\contentsline {subsection}{\numberline {2.5}Literatura pomocnicza - metodyczna}{5}
+\contentsline {subsection}{\numberline {2.6}Literatura - inna}{5}
+\contentsline {section}{\numberline {3}Zakres wiedzy i niewiedzy}{6}
+\contentsline {subsection}{\numberline {3.1}Zakres wiedzy}{6}
+\contentsline {subsection}{\numberline {3.2}Zakres niewiedzy}{6}
+\contentsline {section}{\numberline {4}Problem badawczy}{7}
+\contentsline {section}{\numberline {5}Zasadniczy cel pracy}{7}
+\contentsline {section}{\numberline {6}Harmonogram prac}{7}
+\contentsline {section}{\numberline {7}Koncepcja bada\IeC {\'n}}{8}
+\contentsline {section}{\numberline {8}Okre\IeC {\'s}lenie metod badawczych}{10}
+\contentsline {section}{\numberline {9}Spodziewane wyniki i rezultaty}{11}
